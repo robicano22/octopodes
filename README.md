@@ -1,1 +1,3 @@
-Octopodes is a open-source project dedicated to facilitating the aquisition of optimizing the synergy between companies and software engineers. 
+Octopodes is a open-source project dedicated to alleviating the stress of applying for jobs!
+
+So go forth and clone!
